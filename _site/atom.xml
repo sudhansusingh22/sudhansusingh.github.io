@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Sudhansu</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2016-10-23T14:16:18-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Sudhansu Singh</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Project Details</title>
+   <link href="http://localhost:4000/2013/12/31/whats-jekyll/"/>
+   <updated>2013-12-31T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2013/12/31/whats-jekyll</id>
+   <content type="html">&lt;p&gt;Here is sample page !!!!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
