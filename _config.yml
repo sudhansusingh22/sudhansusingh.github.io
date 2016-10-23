@@ -5,14 +5,14 @@ redcarpet:
 highlighter:      pygments
 
 # Permalinks
-permalink:        /posts/:title/
+permalink:        pretty
 
 # Setup
-title:            Test
-tagline:          'NA'
+title:            Sudhansu
+tagline:          ''
 description:      ''
 url:              http://sudhansusingh22.github.io
-baseurl:          '/'
+baseurl:          ''
 paginate:         5
 excerpt_separator: '<br>'
 gems:
@@ -33,7 +33,7 @@ social:
   github:         sudhansusingh22
   stackexchange:  triple.s
   linkedin:       sudhansusingh22
-  disqus:
+  disqus:         sudhansusingh22
   addthis_pubid:
 
 # Custom vars
